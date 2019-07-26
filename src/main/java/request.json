@@ -1,0 +1,5 @@
+{"resource": {"dashboard": 4},
+  "params": {
+      "startdate": "2018-05-01",
+      "enddate": "2019-05-17",
+      "hospital": "120243"}
